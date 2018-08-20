@@ -1,0 +1,21 @@
+{
+  "name": "wmcc-kafka",
+  "version": "1.0.0-beta.1",
+  "description": "WMCC Kafka - WMCC Exchange Messaging",
+  "repository": "git://github.com/worldmobilecoin/wmcc-kafka.git",
+  "homepage": "https://github.com/worldmobilecoin/wmcc-kafka",
+  "bugs": {
+    "url": "https://github.com/worldmobilecoin/wmcc-kafka/issues"
+  },
+  "author": "ParkAlter@WorldMobileCoin <worldmobilecoin@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "main": "./lib/wmcc-kafka.js",
+  "dependencies": {
+    "kafka-node": "2.6.1",
+    "wmcc-logger": "*"
+  },
+  "license": "MIT"
+}
