@@ -1,6 +1,6 @@
 {
   "name": "wmcc-kafka",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "description": "WMCC Kafka - WMCC Exchange Messaging",
   "repository": "git://github.com/worldmobilecoin/wmcc-kafka.git",
   "homepage": "https://github.com/worldmobilecoin/wmcc-kafka",
